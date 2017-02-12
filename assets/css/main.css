@@ -1594,6 +1594,7 @@
 	}
 
 	h2 {
+		margin: 100px;
 		font-size: 2.85em;
 	}
 
@@ -2177,7 +2178,7 @@
 
 		body.homepage #header:after {
 			content: '';
-			background: #1C0920;
+			background: #152094;
 			display: block;
 			position: absolute;
 			left: 0;
